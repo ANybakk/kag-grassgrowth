@@ -5,5 +5,5 @@ Includes neccesary binding to load a map in Sandbox mode, and a demo map.
 
 To test:
 - Add the folder name where the mod files are located, in mods.cfg
-- Set sv_gamemode = Sandbox in autoconfig.cf
+- Set sv_gamemode = Sandbox in autoconfig.cfg
 - Run runlocalhost.bat
